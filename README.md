@@ -14,6 +14,8 @@ These 2 properties basically adjust the surrounding nodes of X to adjust their p
       
 This application showcases these properties working in a recursive function and how they allow certain algorithms (such as DLX/Algorithm X) to search through the data structure and if necessary backtrack to a later point to retry another "path".
 
+![](/img/dancing.png)
+
 #### Building
 
 gcc -o DANCE dancingex.c
